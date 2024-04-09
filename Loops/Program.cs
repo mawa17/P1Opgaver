@@ -1,5 +1,5 @@
 ﻿/*Må jeg SNART lave må mine EGNE C# projekter?*/
-/*
+
 #region Opgave1
 {
     for (int i = 1; i <= 10; i++)
@@ -101,7 +101,7 @@
     Console.WriteLine(new String(' ', 1));
 }
 #endregion
-*/
+
 #region Opgave9
 {
     Console.WriteLine("SKRIV NAVN");
