@@ -1,0 +1,14 @@
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\BoolskeVariable\bin\Debug\net6.0\BoolskeVariable.exe
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\BoolskeVariable\bin\Debug\net6.0\BoolskeVariable.deps.json
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\BoolskeVariable\bin\Debug\net6.0\BoolskeVariable.runtimeconfig.json
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\BoolskeVariable\bin\Debug\net6.0\BoolskeVariable.dll
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\BoolskeVariable\bin\Debug\net6.0\ref\BoolskeVariable.dll
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\BoolskeVariable\bin\Debug\net6.0\BoolskeVariable.pdb
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\BoolskeVariable\obj\Debug\net6.0\BoolskeVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\BoolskeVariable\obj\Debug\net6.0\BoolskeVariable.AssemblyInfoInputs.cache
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\BoolskeVariable\obj\Debug\net6.0\BoolskeVariable.AssemblyInfo.cs
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\BoolskeVariable\obj\Debug\net6.0\BoolskeVariable.csproj.CoreCompileInputs.cache
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\BoolskeVariable\obj\Debug\net6.0\BoolskeVariable.dll
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\BoolskeVariable\obj\Debug\net6.0\ref\BoolskeVariable.dll
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\BoolskeVariable\obj\Debug\net6.0\BoolskeVariable.pdb
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\BoolskeVariable\obj\Debug\net6.0\BoolskeVariable.genruntimeconfig.cache

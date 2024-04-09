@@ -12,3 +12,4 @@ C:\Users\marwa\Desktop\Opgaver\P1Opgaver\Variabler\obj\Debug\net6.0\Variabler.dl
 C:\Users\marwa\Desktop\Opgaver\P1Opgaver\Variabler\obj\Debug\net6.0\ref\Variabler.dll
 C:\Users\marwa\Desktop\Opgaver\P1Opgaver\Variabler\obj\Debug\net6.0\Variabler.pdb
 C:\Users\marwa\Desktop\Opgaver\P1Opgaver\Variabler\obj\Debug\net6.0\Variabler.genruntimeconfig.cache
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\Variabler\obj\Debug\net6.0\Variabler.csproj.AssemblyReference.cache

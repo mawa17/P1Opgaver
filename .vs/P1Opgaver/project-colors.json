@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8b3bbecb-8929-42b3-952e-d304ae878302": {
+      "ProjectGuid": "8b3bbecb-8929-42b3-952e-d304ae878302",
+      "DisplayName": "P1Opgaver",
+      "ColorIndex": 0
+    },
+    "493cfe52-0e27-4d01-8b80-c3d4283987ed": {
+      "ProjectGuid": "493cfe52-0e27-4d01-8b80-c3d4283987ed",
+      "DisplayName": "Variabler",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "553a5dd3-d4df-4bcd-aa66-0569c8365bb4": {
+      "ProjectGuid": "553a5dd3-d4df-4bcd-aa66-0569c8365bb4",
+      "DisplayName": "Strings",
+      "ColorIndex": 2
+    },
+    "90e70d86-aead-4277-b803-6a4f92d98c45": {
+      "ProjectGuid": "90e70d86-aead-4277-b803-6a4f92d98c45",
+      "DisplayName": "AritmetiskeUdtryk",
+      "ColorIndex": 3
+    },
+    "29c0f263-d7c7-4363-a475-9b3cd42efef7": {
+      "ProjectGuid": "29c0f263-d7c7-4363-a475-9b3cd42efef7",
+      "DisplayName": "VariablerIUdtryk",
+      "ColorIndex": 4
+    },
+    "cda9dbf1-fc91-4f00-9b7a-d0c07c586bea": {
+      "ProjectGuid": "cda9dbf1-fc91-4f00-9b7a-d0c07c586bea",
+      "DisplayName": "BoolskeVariable",
+      "ColorIndex": 5
+    },
+    "02f17f21-090a-43f1-86f7-00f1fa5dd3e8": {
+      "ProjectGuid": "02f17f21-090a-43f1-86f7-00f1fa5dd3e8",
+      "DisplayName": "If-elseSstatements",
+      "ColorIndex": 6
+    },
+    "e6fda59b-3da5-46e7-9eeb-ed75d44985b1": {
+      "ProjectGuid": "e6fda59b-3da5-46e7-9eeb-ed75d44985b1",
+      "DisplayName": "SwitchCase",
+      "ColorIndex": 7
+    },
+    "18c4fffc-355a-4c67-be36-4b3c5bfdd070": {
+      "ProjectGuid": "18c4fffc-355a-4c67-be36-4b3c5bfdd070",
+      "DisplayName": "Loops",
+      "ColorIndex": 8
+    },
+    "bdf8a102-cf51-4c43-a226-69f820b2e5bb": {
+      "ProjectGuid": "bdf8a102-cf51-4c43-a226-69f820b2e5bb",
+      "DisplayName": "UdvidetKontrolstrukturer",
+      "ColorIndex": 9
+    },
+    "d3fd77a0-b9f0-4631-b266-154ae35baa66": {
+      "ProjectGuid": "d3fd77a0-b9f0-4631-b266-154ae35baa66",
+      "DisplayName": "MetoderOgInstanser",
+      "ColorIndex": 10
+    },
+    "580e9bd1-7b61-44b7-9ee4-5105d0cdee36": {
+      "ProjectGuid": "580e9bd1-7b61-44b7-9ee4-5105d0cdee36",
+      "DisplayName": "ReturtyperOgParametre",
+      "ColorIndex": 11
+    },
+    "3e099364-c972-485a-92e4-b4c2eb0c53f3": {
+      "ProjectGuid": "3e099364-c972-485a-92e4-b4c2eb0c53f3",
+      "DisplayName": "Instancevariabler",
+      "ColorIndex": 12
+    },
+    "78383c1c-7d43-46b3-a881-6fd3d847da74": {
+      "ProjectGuid": "78383c1c-7d43-46b3-a881-6fd3d847da74",
+      "DisplayName": "Nedarvning",
+      "ColorIndex": 13
+    },
+    "f4b33796-64fa-432e-8fb5-d5cf7d9920ea": {
+      "ProjectGuid": "f4b33796-64fa-432e-8fb5-d5cf7d9920ea",
+      "DisplayName": "Konstruktors",
+      "ColorIndex": 14
+    },
+    "c347053d-657e-4d39-94fc-ccf0ab89e0ed": {
+      "ProjectGuid": "c347053d-657e-4d39-94fc-ccf0ab89e0ed",
+      "DisplayName": "Arrays",
+      "ColorIndex": 15
+    },
+    "7c856df8-8a61-425a-a113-38bf1b70de5d": {
+      "ProjectGuid": "7c856df8-8a61-425a-a113-38bf1b70de5d",
+      "DisplayName": "GennemløbAfArrays",
+      "ColorIndex": 0
+    },
+    "077f42d6-c737-408a-aba4-bee65fbfeaa6": {
+      "ProjectGuid": "077f42d6-c737-408a-aba4-bee65fbfeaa6",
+      "DisplayName": "PublicPrivateProtected",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
