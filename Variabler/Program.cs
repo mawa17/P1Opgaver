@@ -1,4 +1,7 @@
-﻿#region Opgave1 
+﻿/*Må jeg SNART lave må mine EGNE C# projekter?*/
+
+
+#region Opgave1 
 {
     const int tal1 = 5, tal2 = 3;
     Console.WriteLine($"tal1: {tal1}, tal2: {tal2}");
