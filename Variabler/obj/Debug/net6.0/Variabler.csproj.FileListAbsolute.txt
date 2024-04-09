@@ -1,0 +1,14 @@
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\Variabler\bin\Debug\net6.0\Variabler.exe
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\Variabler\bin\Debug\net6.0\Variabler.deps.json
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\Variabler\bin\Debug\net6.0\Variabler.runtimeconfig.json
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\Variabler\bin\Debug\net6.0\Variabler.dll
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\Variabler\bin\Debug\net6.0\ref\Variabler.dll
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\Variabler\bin\Debug\net6.0\Variabler.pdb
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\Variabler\obj\Debug\net6.0\Variabler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\Variabler\obj\Debug\net6.0\Variabler.AssemblyInfoInputs.cache
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\Variabler\obj\Debug\net6.0\Variabler.AssemblyInfo.cs
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\Variabler\obj\Debug\net6.0\Variabler.csproj.CoreCompileInputs.cache
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\Variabler\obj\Debug\net6.0\Variabler.dll
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\Variabler\obj\Debug\net6.0\ref\Variabler.dll
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\Variabler\obj\Debug\net6.0\Variabler.pdb
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\Variabler\obj\Debug\net6.0\Variabler.genruntimeconfig.cache
