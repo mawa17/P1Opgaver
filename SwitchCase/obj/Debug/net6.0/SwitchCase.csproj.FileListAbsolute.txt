@@ -1,0 +1,15 @@
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\SwitchCase\bin\Debug\net6.0\SwitchCase.exe
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\SwitchCase\bin\Debug\net6.0\SwitchCase.deps.json
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\SwitchCase\bin\Debug\net6.0\SwitchCase.runtimeconfig.json
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\SwitchCase\bin\Debug\net6.0\SwitchCase.dll
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\SwitchCase\bin\Debug\net6.0\ref\SwitchCase.dll
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\SwitchCase\bin\Debug\net6.0\SwitchCase.pdb
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\SwitchCase\obj\Debug\net6.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfo.cs
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\SwitchCase\obj\Debug\net6.0\SwitchCase.dll
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\SwitchCase\obj\Debug\net6.0\ref\SwitchCase.dll
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\SwitchCase\obj\Debug\net6.0\SwitchCase.pdb
+C:\Users\marwa\Desktop\Opgaver\P1Opgaver\SwitchCase\obj\Debug\net6.0\SwitchCase.genruntimeconfig.cache
