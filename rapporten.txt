@@ -1,0 +1,16 @@
+• Forside med navn og uddannelse i header/footer.
+    AF Marcus W (Data- og kommunikationsuddannelsen med speciale i programmering)
+
+Indledning. (Hvad går opgaven ud på)
+    At løse en masse C# opgaver
+
+Dokumentation af kode/opsætning.
+    SE "P1Opgaver.sln" filen!
+
+
+
+• Konklusion. (Hvad har du lært/fået ud af opgaven)
+    Jeg har IKKE lært noget overhovedet
+
+• Opgaveforløb. (Dagbog som beskriver hvad du laver hver dag. F.eks. hvilke problemer du
+    jeg løste hele opgaven på ca 3 timer og havde igen problemer
