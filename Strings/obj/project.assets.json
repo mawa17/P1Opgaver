@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\marwa\\.nuget\\packages\\": {}
+    "C:\\Users\\marcu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marwa\\Desktop\\Opgaver\\P1Opgaver\\Strings\\Strings.csproj",
+      "projectUniqueName": "C:\\Users\\marcu\\Desktop\\GitHub\\P1Opgaver\\Strings\\Strings.csproj",
       "projectName": "Strings",
-      "projectPath": "C:\\Users\\marwa\\Desktop\\Opgaver\\P1Opgaver\\Strings\\Strings.csproj",
-      "packagesPath": "C:\\Users\\marwa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marwa\\Desktop\\Opgaver\\P1Opgaver\\Strings\\obj\\",
+      "projectPath": "C:\\Users\\marcu\\Desktop\\GitHub\\P1Opgaver\\Strings\\Strings.csproj",
+      "packagesPath": "C:\\Users\\marcu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marcu\\Desktop\\GitHub\\P1Opgaver\\Strings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\marwa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marcu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
